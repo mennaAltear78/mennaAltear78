@@ -12,40 +12,46 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## ⚡ Highlights
+## Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Streaming</h3>
+      <h3>
+        <img src="https://api.iconify.design/lucide:radio.svg?color=%230052cc" width="20" height="20" align="center" /> 
+        Streaming
+      </h3>
       <p>Real-time streaming experiences with production-ready features.</p>
       <ul>
-        <li>👥 Real-time multi-participant rooms</li>
-        <li>💻 Screen sharing</li>
-        <li>🔌 WebRTC & LiveKit integration</li>
-        <li>📡 Live stream management</li>
-        <li>▶️ RTMP streaming to multiple platforms</li>
-        <li>🎛️ Participant controls</li>
-        <li>🎨 Canvas-based video composition</li>
-        <li>🖼️ Virtual backgrounds</li>
-        <li>📷 Camera, mic & screen controls</li>
-        <li>🎚️ Stream layout management</li>
+        <li>Real-time multi-participant rooms</li>
+        <li>Screen sharing</li>
+        <li>WebRTC & LiveKit integration</li>
+        <li>Live stream management</li>
+        <li>RTMP streaming to multiple platforms</li>
+        <li>Participant controls</li>
+        <li>Canvas-based video composition</li>
+        <li>Virtual backgrounds</li>
+        <li>Camera, mic & screen controls</li>
+        <li>Stream layout management</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Dashboards</h3>
+      <h3>
+        <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2322c55e" width="20" height="20" align="center" /> 
+        Dashboards
+      </h3>
       <p>Data-driven dashboards built for insights and performance.</p>
       <ul>
-        <li>🗂️ Admin & analytics dashboards</li>
-        <li>📈 Interactive charts & metrics</li>
-        <li>📉 Data visualization & reporting</li>
-        <li>📥 Export & data handling</li>
-        <li>🛡️ Role-based access control</li>
-        <li>📱 Responsive & accessible UI</li>
-        <li>🔗 REST API integration</li>
-        <li>🧩 Reusable components</li>
-        <li>🚀 Performance optimization</li>
-        <li>🏗️ Clean & scalable architecture</li>
+        <li>Admin & analytics dashboards</li>
+        <li>Interactive charts & metrics</li>
+        <li>Data visualization & reporting</li>
+        <li>Export & data handling</li>
+        <li>Role-based access control</li>
+        <li>Responsive & accessible UI</li>
+        <li>REST API integration</li>
+        <li>Reusable components</li>
+        <li>Performance optimization</li>
+        <li>Clean & scalable architecture</li>
       </ul>
     </td>
   </tr>
@@ -53,7 +59,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -64,20 +70,20 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=flat" />
+  <img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=flat&logo=analytics&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Connect
+## GitHub Stats & Connect
 
 <table>
   <tr>
@@ -88,7 +94,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Let's Connect!</h3>
-      <p>Open to collaboration on exciting projects and new opportunities. 🚀</p>
+      <p>Open to collaboration on exciting projects and new opportunities.</p>
       <br />
       <p>
         <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
