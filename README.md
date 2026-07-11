@@ -12,54 +12,43 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## Highlights
+## ⚡ Highlights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://api.iconify.design/lucide:radio.svg?color=%230052cc" width="20" height="20" align="center" /> 
-        Streaming
-      </h3>
-      <p>Real-time streaming experiences with production-ready features.</p>
-      <ul>
-        <li>Real-time multi-participant rooms</li>
-        <li>Screen sharing</li>
-        <li>WebRTC & LiveKit integration</li>
-        <li>Live stream management</li>
-        <li>RTMP streaming to multiple platforms</li>
-        <li>Participant controls</li>
-        <li>Canvas-based video composition</li>
-        <li>Virtual backgrounds</li>
-        <li>Camera, mic & screen controls</li>
-        <li>Stream layout management</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2322c55e" width="20" height="20" align="center" /> 
-        Dashboards
-      </h3>
-      <p>Data-driven dashboards built for insights and performance.</p>
-      <ul>
-        <li>Admin & analytics dashboards</li>
-        <li>Interactive charts & metrics</li>
-        <li>Data visualization & reporting</li>
-        <li>Export & data handling</li>
-        <li>Role-based access control</li>
-        <li>Responsive & accessible UI</li>
-        <li>REST API integration</li>
-        <li>Reusable components</li>
-        <li>Performance optimization</li>
-        <li>Clean & scalable architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>📺 Streaming Platform Features (Click to collapse)</b></summary>
+<br />
+<blockquote>
+  Real-time streaming experiences built with production-ready features.
+</blockquote>
+
+- **Core Engine:** WebRTC & LiveKit integration for ultra-low latency.
+- **Rooms & Control:** Real-time multi-participant rooms featuring strict participant controls.
+- **Media Delivery:** RTMP streaming out to multiple platforms simultaneously.
+- **Video Processing:** Canvas-based video composition, screen sharing, and virtual backgrounds.
+- **Hardware Integration:** Fine-grained camera, microphone, and screen level capture controls.
+- **UI Layouts:** Adaptive stream layout management engines.
+</details>
+
+<br />
+
+<details>
+<summary><b>📊 Enterprise Dashboard Engine (Click to expand)</b></summary>
+<br />
+<blockquote>
+  Data-driven dashboards optimized heavily for quick insights and crisp performance.
+</blockquote>
+
+- **Analytics:** Complex admin & analytics dashboard control modules.
+- **Visualization:** Interactive charts, metrics tracking, and advanced data visualization reporting.
+- **Data Pipeline:** Seamless export pipelines and deep asynchronous data handling.
+- **Security:** Strict role-based access control (RBAC) layers embedded natively.
+- **Architecture:** Clean, modular, and reusable components integrated with REST APIs.
+- **Performance:** Render cycle optimization ensuring highly responsive and accessible UI layouts.
+</details>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -70,7 +59,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -83,18 +72,27 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## GitHub Stats & Connect
+## 📊 Live Metrics & Connect
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Activity</h3>
-      <!-- Dynamic GitHub contribution graph widget (Replace YOUR_USERNAME) -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox" alt="GitHub Streak" width="100%" />
+    <td width="60%" valign="top">
+      <h3>📈 Dynamic GitHub Insights</h3>
+      <!-- Interactive Tabbed Switcher via standard details element -->
+      <details open>
+        <summary>🔥 Streak Status</summary>
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
+      </details>
+      <details>
+        <summary>⚡ Language Breakdown</summary>
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%" />
+      </details>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>🤝 Let's Connect!</h3>
-      <p>Open to collaboration on exciting projects and new opportunities.</p>
+      <p>Open to collaboration on exciting streaming setups, dynamic frontend dashboards, and innovative products.</p>
       <br />
       <p>
         <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
