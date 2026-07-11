@@ -91,7 +91,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 ---
 
-## GitHub Stats & Connect
+## GitHub Stats 
 
 <table>
       <h3>📈 Activity</h3>
