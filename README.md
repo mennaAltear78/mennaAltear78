@@ -94,21 +94,8 @@ Building scalable web applications with a strong focus on real-time streaming pl
 ## GitHub Stats & Connect
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
       <h3>📈 Activity</h3>
       <!-- Dynamic GitHub contribution graph widget (Replace YOUR_USERNAME) -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennaAltear78&theme=gruvbox" alt="GitHub Streak" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Let's Connect!</h3>
-      <p>Open to collaboration on exciting projects and new opportunities.</p>
-      <br />
-      <p>
-        <a href="www.linkedin.com/in/menna-altear-b308b6347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:mennaaltear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="[https://YOUR_PORTFOLIO_URL](https://portfolio-tu54.vercel.app/)"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
+
 </table>
