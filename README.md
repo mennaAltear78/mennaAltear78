@@ -90,7 +90,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
     <td width="50%" valign="top">
       <h3>📈 Activity</h3>
       <!-- Dynamic GitHub contribution graph widget (Replace YOUR_USERNAME) -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennaAltear78&theme=gruvbox" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Let's Connect!</h3>
