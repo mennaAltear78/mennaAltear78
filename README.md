@@ -27,9 +27,9 @@ Building scalable web applications with a strong focus on real-time streaming pl
 # Highlights
 
 <table>
-<tr>
+<div>
 
-<td width="50%" valign="top">
+<div width="50%" valign="top">
 
 ### Streaming
 
@@ -43,9 +43,9 @@ Building scalable web applications with a strong focus on real-time streaming pl
 - Stream layout management
 - Participant controls
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<div width="50%" valign="top">
 
 ### Dashboards
 
@@ -59,9 +59,9 @@ Building scalable web applications with a strong focus on real-time streaming pl
 - Reusable Components
 - Performance Optimization
 
-</td>
+</div>
 
-</tr>
+</div>
 </table>
 
 ---
