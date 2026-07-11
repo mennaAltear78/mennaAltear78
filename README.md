@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Menna Altear</h1>
 
-<p align="center">
+<h3 align="center">
 Frontend Engineer | React • Next.js • TypeScript
-</p>
+</h3>
 
 <p align="center">
 Building scalable web applications with a strong focus on real-time streaming platforms and enterprise dashboards.
@@ -28,9 +28,10 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 <table>
 <tr>
-<td width="50%">
 
-## Streaming
+<td width="50%" valign="top">
+
+### Streaming
 
 - Real-time multi-participant rooms
 - LiveKit integration
@@ -40,13 +41,13 @@ Building scalable web applications with a strong focus on real-time streaming pl
 - Camera & microphone controls
 - Screen sharing
 - Stream layout management
-- Real-time participant management
+- Participant controls
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## Dashboards
+### Dashboards
 
 - Admin dashboards
 - Analytics dashboards
@@ -55,10 +56,11 @@ Building scalable web applications with a strong focus on real-time streaming pl
 - Authentication & Authorization
 - Role-Based Access Control
 - Responsive UI
-- Reusable components
-- Performance optimization
+- Reusable Components
+- Performance Optimization
 
 </td>
+
 </tr>
 </table>
 
@@ -66,41 +68,87 @@ Building scalable web applications with a strong focus on real-time streaming pl
 
 # Tech Stack
 
-### Frontend
+<table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite,bootstrap" />
-</p>
+<tr>
 
-### Backend
+<td width="170"><b>Frontend</b></td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,python" />
-</p>
+<td>
 
-### Database
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=redux" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+</td>
 
-### Tools
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vercel" />
-</p>
+<tr>
+
+<td><b>Backend</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Database</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Tools</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # Currently Learning
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+
 </p>
 
 - Machine Learning
-- Pandas
-- NumPy
 - Scikit-Learn
 - Data Analysis
 - Feature Engineering
@@ -110,19 +158,24 @@ Building scalable web applications with a strong focus on real-time streaming pl
 # GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# Connect
+# Let's Connect
 
-<p>
+<p align="left">
 
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
