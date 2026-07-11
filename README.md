@@ -1,193 +1,100 @@
-<h1 align="center">Hi, I'm Menna Altear</h1>
+# Hi, I’m Menna Altear 👋
 
-<h3 align="center">
-Frontend Engineer | React • Next.js • TypeScript
-</h3>
+### Frontend Engineer | React • Next.js • TypeScript
 
-<p align="center">
 Building scalable web applications with a strong focus on real-time streaming platforms and enterprise dashboards.
-</p>
-
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# Highlights
-
-<table>
-<div>
-
-<div width="50%" valign="top">
-
-### Streaming
-
-- Real-time multi-participant rooms
-- LiveKit integration
-- WebRTC
-- RTMP streaming
-- Canvas video composition
-- Camera & microphone controls
-- Screen sharing
-- Stream layout management
-- Participant controls
-- Virtual background support
-
-</div>
-
-<div width="50%" valign="top">
-
-### Dashboards
-
-- Admin dashboards
-- Analytics dashboards
-- Data visualization
-- REST API integration
-- Authentication & Authorization
-- Role-Based Access Control
-- Responsive UI
-- Reusable Components
-- Performance Optimization
-
-</div>
-
-</div>
-</table>
-
----
-
-# Tech Stack
-
-<table>
-
-<tr>
-
-<td width="170"><b>Frontend</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=redux" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td><b>Backend</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=python" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td><b>Database</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td><b>Tools</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-
-</p>
-
-- Machine Learning
-- Scikit-Learn
-- Data Analysis
-- Feature Engineering
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Let's Connect
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+## ⚡ Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Streaming</h3>
+      <p>Real-time streaming experiences with production-ready features.</p>
+      <ul>
+        <li>👥 Real-time multi-participant rooms</li>
+        <li>💻 Screen sharing</li>
+        <li>🔌 WebRTC & LiveKit integration</li>
+        <li>📡 Live stream management</li>
+        <li>▶️ RTMP streaming to multiple platforms</li>
+        <li>🎛️ Participant controls</li>
+        <li>🎨 Canvas-based video composition</li>
+        <li>🖼️ Virtual backgrounds</li>
+        <li>📷 Camera, mic & screen controls</li>
+        <li>🎚️ Stream layout management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Dashboards</h3>
+      <p>Data-driven dashboards built for insights and performance.</p>
+      <ul>
+        <li>🗂️ Admin & analytics dashboards</li>
+        <li>📈 Interactive charts & metrics</li>
+        <li>📉 Data visualization & reporting</li>
+        <li>📥 Export & data handling</li>
+        <li>🛡️ Role-based access control</li>
+        <li>📱 Responsive & accessible UI</li>
+        <li>🔗 REST API integration</li>
+        <li>🧩 Reusable components</li>
+        <li>🚀 Performance optimization</li>
+        <li>🏗️ Clean & scalable architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> |
+| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=flat" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Connect
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Activity</h3>
+      <!-- Dynamic GitHub contribution graph widget (Replace YOUR_USERNAME) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Let's Connect!</h3>
+      <p>Open to collaboration on exciting projects and new opportunities. 🚀</p>
+      <br />
+      <p>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+        <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
