@@ -99,7 +99,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
       <p>
         <a href="www.linkedin.com/in/menna-altear-b308b6347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:mennaaltear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="[https://YOUR_PORTFOLIO_URL](https://portfolio-tu54.vercel.app/)"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
   </tr>
