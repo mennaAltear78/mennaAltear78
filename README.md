@@ -42,6 +42,7 @@ Building scalable web applications with a strong focus on real-time streaming pl
 - Screen sharing
 - Stream layout management
 - Participant controls
+- Virtual background support
 
 </div>
 
