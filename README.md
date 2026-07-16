@@ -1,6 +1,8 @@
 # Hi, I’m Menna Altear 👋
 
-### Frontend Engineer | React • Next.js • TypeScript
+### Frontend Engineer | React • Next.js • TypeScript  
+### BackEnd | • FastApi
+
 
 Building scalable web applications with a strong focus on real-time streaming platforms and enterprise dashboards.
 
